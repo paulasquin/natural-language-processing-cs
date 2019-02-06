@@ -1,6 +1,7 @@
 # natural-language-processing-cs
 Natural Langage Processing courses homework from CentraleSupélec
-By Ayush Rai, Benoit Laurès and Paul Asquin
+By Ayush Rai, Benoit Laurès and Paul Asquin.  
+Instructions : http://nlpcourse.europe.naverlabs.com/  
 
 Usefull links : 
 - http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/  
